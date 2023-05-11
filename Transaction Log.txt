@@ -1,0 +1,5 @@
+Deposit :600.0 			 Balance: 700.0
+Withdraw :456.0 			 Balance: 244.0
+Deposit :8000.0 			 Balance: 8100.0
+Deposit :500.0 			 Balance: 8600.0
+Withdraw :250.0 			 Balance: 8350.0
